@@ -1,4 +1,4 @@
-# Kega Fusion 3.64
+# Kega Fusion v3.64
 
 A ready-to-run copy of **Kega Fusion v3.64** (Windows) — the Sega SG-1000 / SC-3000 / Master System / Game Gear / Mega Drive (Genesis) / Sega CD / 32X / Pico emulator by Steve Snake — with two drop-in wrappers that fix the two biggest annoyances on modern Windows:
 
