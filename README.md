@@ -100,7 +100,7 @@ The original, untouched executable is kept as **`Fusion_original.exe`**.
 | `dinput.dll`, `xidi.ini` | Xidi (gamepad mapping) |
 | `BIOS/` | BIOS images used for Sega CD, 32X, Master System, Game Gear, etc. |
 | `Plugins/` | Video render plugins (`.rpi`): 2xSaI, hq2x/3x/4x, Scale2x/3x/4x, xBRZ, MDNTSC, … |
-| `Patch/` | Cheat / patch files (`.pat`) for Mega Drive, Master System and Game Gear |
+| `Patch/` | Cheat / patch files (`.pat`) for Mega Drive (Genesis), Master System and Game Gear |
 | `Video Codec/` | Kega Game Video codec for AVI recording |
 | `Readme.txt`, `History.txt` | Original Kega Fusion documentation and changelog |
 
