@@ -36,6 +36,8 @@ Kega Fusion draws through DirectDraw, which modern Windows only emulates. [DxWra
 
 Version: **DxWrapper 1.8.8600.25**
 
+> **Important — turn VSync off.** The full-screen delay fix only works when **VSync is disabled** in Kega Fusion. Open the **Video** menu and make sure **VSync** is *unchecked* before switching to full screen.
+
 The one setting that matters in `dxwrapper.ini`:
 
 ```ini
@@ -76,7 +78,7 @@ Full option reference: <https://github.com/samuelgr/Xidi/wiki/Configuration>
 
 `Fusion.exe` is a lightly modified build of the original 3.64 executable:
 
-- **Reorganized menus** — options are regrouped into *Emulation*, *Audio*, *Tools* and *Region* menus, with a *Recent Files* list, and the video menu has tidy *Scanlines*, *TV Mode* and *Aspect Ratio* submenus.
+- **Reorganized menus** — options are regrouped into *Emulation*, *Audio*, *Tools* and *Options* menus, with a *Recent Files* list, and the video menu has tidy *Scanlines*, *TV Mode* and *Aspect Ratio* submenus.
 - **DPI-aware** and using the modern (v6) Windows common controls, so the UI isn't blurry-scaled on high-DPI displays.
 
 The original, untouched executable is kept as **`Fusion_original.exe`**.
