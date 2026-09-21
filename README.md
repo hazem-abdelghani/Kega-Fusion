@@ -138,6 +138,5 @@ Both `Fusion.exe` and `Fusion_original.exe` load whichever wrapper DLLs are in t
 - **Kega Fusion** — © Steve Snake, 2010. All emulator code is his work.
 - **DxWrapper** — Elisha Riedlinger — <https://github.com/elishacloud/dxwrapper>
 - **Xidi** — Samuel Grossman — <https://github.com/samuelgr/Xidi>
-- **Cheat Code Pack** (`Patch/`) — Mo (<http://www.mightymo.net>), with thanks to Tukuyomi
 
 This is an unofficial repackage and is not affiliated with or endorsed by any of the authors above. Please refer to each project's own repository or documentation for its license terms. No games are included — you must supply your own legally obtained ROMs and disc images.
