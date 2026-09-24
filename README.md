@@ -1,3 +1,4 @@
+![Kega Fusion](images/KEGA_logo.png)
 # Kega Fusion v3.64
 
 A ready-to-run copy of **Kega Fusion v3.64** (Windows) — the Sega SG-1000 / SC-3000 / Master System / Game Gear / Mega Drive (Genesis) / Sega CD / 32X / Pico emulator by Steve Snake — with two drop-in wrappers that fix the two biggest annoyances on modern Windows:
@@ -37,6 +38,8 @@ Kega Fusion draws through DirectDraw, which modern Windows only emulates. [DxWra
 Version: **DxWrapper 1.8.8600.25**
 
 > **Important — turn VSync off.** The full-screen delay fix only works when **VSync is disabled** in Kega Fusion. Open the **Video** menu and make sure **VSync** is *unchecked* before switching to full screen.
+>
+> **Also match your desktop resolution.** Set the full-screen resolution to the same resolution Windows is using (**Video → Full Screen Resolution**). A different resolution makes Windows change the display mode, which brings back the delay when switching to full screen.
 
 The one setting that matters in `dxwrapper.ini`:
 
